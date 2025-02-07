@@ -88,6 +88,8 @@ function App() {
                   <div className="text-gray-800 text-sm">
                     <a href="tel:+917518061111" className="hover:text-red-600 block">+91 7518061111</a>
                     <a href="tel:+917518051111" className="hover:text-red-600 block">+91 7518051111</a>
+                    <a href="tel:+917518051111" className="hover:text-red-600 block">+91 9839964012</a>
+                    <a href="tel:+917518051111" className="hover:text-red-600 block">+91 8604880880</a>
                   </div>
                 </div>
                 <div className="flex items-start space-x-3 p-4 bg-orange-50 rounded-lg sm:col-span-2">
