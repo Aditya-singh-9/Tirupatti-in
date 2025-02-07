@@ -186,7 +186,7 @@ function App() {
             Book your stay now and experience the perfect blend of comfort, culture, and hospitality in Varanasi
           </p>
           <a 
-            href="https://goibibo.com/hotels/tirupati-inn-hotel-in-varanasi-5006781396726272798/"
+            href="https://www.makemytrip.com/hotels/tirupati_inn-details-varanasi.html"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-white text-red-600 px-8 sm:px-12 py-3 sm:py-4 rounded-full font-semibold text-lg hover:bg-orange-100 transition duration-300 inline-flex items-center"
